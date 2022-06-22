@@ -22,4 +22,4 @@ data-raw/*
 *.fls
 *.log
 *.synctex.gz
-notebooks/.pynb_checkpoints
+notebooks/.ipynb_checkpoints
