@@ -6,6 +6,7 @@ lib/local
 *.html
 *.spin.Rmd
 *.spin.md
+*.asc
 *~
 ~$*
 \*R\*
